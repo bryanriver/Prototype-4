@@ -477,7 +477,7 @@ GameObject:
   - component: {fileID: 1837001995}
   - component: {fileID: 1837001994}
   m_Layer: 0
-  m_Name: 'Focal Point '
+  m_Name: Focal Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -639,6 +639,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a73c866a9e144770b3adda6763c904b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 5
 --- !u!1001 &7305732181041295649
 PrefabInstance:
   m_ObjectHideFlags: 0
